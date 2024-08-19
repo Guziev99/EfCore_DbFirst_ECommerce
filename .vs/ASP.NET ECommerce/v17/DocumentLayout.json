@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|c:\\users\\user\\downloads\\asp.net-ecommerce-main\\asp.net-ecommerce-main\\asp.net ecommerce\\views\\shared\\components\\admindashboardneworder\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|solutionrelative:asp.net ecommerce\\views\\shared\\components\\admindashboardneworder\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|c:\\users\\user\\downloads\\asp.net-ecommerce-main\\asp.net-ecommerce-main\\asp.net ecommerce\\views\\shared\\adminpartials\\preloaderpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|solutionrelative:asp.net ecommerce\\views\\shared\\adminpartials\\preloaderpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|c:\\users\\user\\downloads\\asp.net-ecommerce-main\\asp.net-ecommerce-main\\asp.net ecommerce\\views\\shared\\adminpartials\\footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|solutionrelative:asp.net ecommerce\\views\\shared\\adminpartials\\footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|c:\\users\\user\\downloads\\asp.net-ecommerce-main\\asp.net-ecommerce-main\\asp.net ecommerce\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|solutionrelative:asp.net ecommerce\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|c:\\users\\user\\downloads\\asp.net-ecommerce-main\\asp.net-ecommerce-main\\asp.net ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{397B8594-3003-4F54-9C94-35E8629F0FA5}|ASP.NET ECommerce\\ASP.NET ECommerce.MVC.csproj|solutionrelative:asp.net ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\Components\\AdminDashboardNeworder\\Default.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET ECommerce\\Views\\Shared\\Components\\AdminDashboardNeworder\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\Components\\AdminDashboardNeworder\\Default.cshtml",
+              "RelativeToolTip": "ASP.NET ECommerce\\Views\\Shared\\Components\\AdminDashboardNeworder\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T22:00:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreloaderPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\PreloaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\PreloaderPartialView.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\PreloaderPartialView.cshtml",
+              "RelativeToolTip": "ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\PreloaderPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T22:00:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FooterPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\FooterPartialView.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\FooterPartialView.cshtml",
+              "RelativeToolTip": "ASP.NET ECommerce\\Views\\Shared\\AdminPartials\\FooterPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T22:00:17.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ASP.NET ECommerce\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T21:59:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NET ECommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-ECommerce-main\\ASP.NET-ECommerce-main\\ASP.NET ECommerce\\appsettings.json",
+              "RelativeToolTip": "ASP.NET ECommerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T21:27:39.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
